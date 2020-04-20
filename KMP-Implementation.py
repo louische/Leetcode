@@ -4,7 +4,7 @@ class Solution:
         if len(needle) == 0: return 0
         if len(haystack) == 0: return -1
     
-        res = [0] * len(needle)
+        res = [0] * (len(needle) + 1)
         j = -1
         i = 0
         res[0] = -1
