@@ -1,3 +1,5 @@
+# This is the python version of the implementation
+# More detail of this implementation can be found at KMP.pdf
 class Solution:
     
     def strStr(self, haystack: str, needle: str) -> int:
