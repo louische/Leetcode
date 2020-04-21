@@ -1,4 +1,4 @@
 # Leetcode
 
 ## Algorithms:
-- [KMP Algo](./Leetcode/KMP-Implementation.py)
+- [KMP Algo](./algo/KMP-Implementation.py)
